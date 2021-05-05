@@ -1,0 +1,36 @@
+
+
+.card{
+width: 400px;
+margin: 0 8px 0 8px;
+}
+
+#heart{
+    color:#ffc107;
+    background: #fdfdfd;
+    
+}
+#heart:Active{
+    color:#000000;
+    background-color:#ffc107;
+
+}
+#heart:hover{
+    color:#000000;
+    background-color: #ffc107;
+  
+}
+
+
+.downButtons{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+#delete{
+    text-align: right;
+}
+

@@ -1,0 +1,33 @@
+.titleDetailDescription{
+    width: 90%; 
+    padding: 16px 16px 0 16px;
+}
+
+
+
+.imageDetail{
+    margin: 16px;
+    padding-left: 16px;
+}
+
+hr{
+   border-top: 2px solid red;
+   width: 90%;
+   max-width: 1600px;
+   margin: auto;
+}
+
+.dataBelow{
+    width: 90%;
+    max-width: 1536px;
+    justify-content: space-between;
+    padding: 16px;
+    margin: auto;
+    text-align: center;
+    /*margin: 0 16px 0 16px;*/
+}
+
+.textDetail{
+    width: 90%;
+    max-width: 767px;
+}
